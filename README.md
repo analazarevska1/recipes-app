@@ -37,15 +37,18 @@ A community-driven recipe sharing platform built with **Laravel 11**, **Tailwind
 
 ## 📸 Screenshots
 
-> _Add screenshots here once you've taken them. Recommended order: home page, recipes grid, single recipe, create form, dashboard._
+### Home Page
+![Home Page](docs/screenshots/home.png)
 
-```
-docs/screenshots/home.png
-docs/screenshots/all-recipes.png
-docs/screenshots/single-recipe.png
-docs/screenshots/create-recipe.png
-docs/screenshots/dashboard.png
-```
+### All Recipes
+![All Recipes](docs/screenshots/all-recipes.png)
+
+### Single Recipe
+![Single Recipe](docs/screenshots/single-recipe1.png)
+![Single Recipe](docs/screenshots/single-recipe2.png)
+
+### Create Recipe
+![Create Recipe](docs/screenshots/create-recipe.png)
 
 ---
 

@@ -48,3 +48,12 @@ Homestead.yaml
 
 # Tooling cache
 /.php-cs-fixer.cache
+
+
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/cleaned_activities.csv
+data/dummy_users.csv
